@@ -18,7 +18,8 @@ const db = {
             { "id": "a3", "name": "Samsung Ecosystem", "icon": "📱" },
             { "id": "a4", "name": "IP CAMERA", "icon": "📹" },
             { "id": "a5", "name": "100 Billion Tech", "icon": "💰" },
-            { "id": "a6", "name": "VSCode", "icon": "💻" }
+            { "id": "a6", "name": "VSCode", "icon": "💻" },
+            { "id": "a7", "name": "Temperature Calibrator", "icon": "🌡" }
           ]
         },
         {
@@ -27,13 +28,13 @@ const db = {
           "products": [ // Updated product list for Lab C
             { "id": "c1", "name": "SimilaCure", "icon": "💊" },
             { "id": "c2", "name": "Allotrak", "icon": "📊" },
-            { "id": "c3", "name": "Reliance Samarth", "icon": "🛍️" },
-            { "id": "c4", "name": "Temperature Calibrator", "icon": "🌡️" },
-            { "id": "c5", "name": "Video Door Phone", "icon": "🚪" },
-            { "id": "c6", "name": "Motherboard Full Setup Raw - 1", "icon": "⚙️" },
-            { "id": "c7", "name": "Dial Club", "icon": "☎️" },
-            { "id": "c8", "name": "Website/App", "icon": "🌐" },
-            { "id": "c9", "name": "Copilot", "icon": "🤖" }
+            { "id": "c3", "name": "Reliance Samarth", "icon": "🛍" },
+            { "id": "c4", "name": "Video Door Phone", "icon": "🚪" },
+            { "id": "c5", "name": "Motherboard Full Setup Raw - 1", "icon": "⚙" },
+            { "id": "c6", "name": "Dial Club", "icon": "☎" },
+            { "id": "c7", "name": "Website/App", "icon": "🌐" },
+            { "id": "c8", "name": "Copilot", "icon": "🤖" },
+            { "id": "c9", "name": "IOT Monitoring", "icon": "📡" }
           ]
         },
         {
@@ -41,13 +42,13 @@ const db = {
           "labName": "LAB 308-D",
           "products": [ // Updated product list for Lab D
             { "id": "d1", "name": "DND Services", "icon": "🚫" },
-            { "id": "d2", "name": "Her Circle", "icon": "♀️" },
+            { "id": "d2", "name": "Her Circle", "icon": "♀" },
             { "id": "d3", "name": "Optimis", "icon": "📈" },
             { "id": "d4", "name": "RDiscovery", "icon": "🔬" },
             { "id": "d5", "name": "PaperPal", "icon": "📝" },
             { "id": "d6", "name": "MDVR Camera Shivsahi", "icon": "🚌" },
-            { "id": "d7", "name": "Motherboard Full Setup Raw - 2", "icon": "🛠️" },
-            { "id": "d8", "name": "OSM", "icon": "🗺️" },
+            { "id": "d7", "name": "Motherboard Full Setup Raw - 2", "icon": "🛠" },
+            { "id": "d8", "name": "OSM", "icon": "🗺" },
             { "id": "d9", "name": "Apple Ecosystem", "icon": "🍏" },
             { "id": "d10", "name": "EDQuest", "icon": "🎓" }
           ]
@@ -118,4 +119,3 @@ export default function LabProductsPage() {
         </main>
     );
 }
-
