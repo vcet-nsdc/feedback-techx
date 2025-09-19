@@ -32,7 +32,7 @@ const db = {
             { "id": "c4", "name": "Video Door Phone", "icon": "🚪" },
             { "id": "c5", "name": "Motherboard Full Setup Raw - 1", "icon": "⚙" },
             { "id": "c6", "name": "Dial Club", "icon": "☎" },
-            { "id": "c7", "name": "Website/App", "icon": "🌐" },
+            { "id": "c7", "name": "The Hobby Tribe", "icon": "🌐" },
             { "id": "c8", "name": "Copilot", "icon": "🤖" },
             { "id": "c9", "name": "IOT Monitoring", "icon": "📡" }
           ]
