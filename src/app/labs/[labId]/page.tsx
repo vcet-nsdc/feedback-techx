@@ -43,7 +43,7 @@ const db = {
           "products": [ // Updated product list for Lab D
             { "id": "d1", "name": "DND Services", "icon": "🚫" },
             { "id": "d2", "name": "Her Circle", "icon": "♀" },
-            { "id": "d3", "name": "Optimis", "icon": "📈" },
+            { "id": "d3", "name": "Optimyz", "icon": "📈" },
             { "id": "d4", "name": "RDiscovery", "icon": "🔬" },
             { "id": "d5", "name": "PaperPal", "icon": "📝" },
             { "id": "d6", "name": "MDVR Camera Shivsahi", "icon": "🚌" },
