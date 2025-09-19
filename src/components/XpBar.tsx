@@ -6,7 +6,7 @@ import { useCompletion } from '@/context/CompletionContext';
 import { useRouter } from 'next/navigation';
 import styles from './XpBar.module.css';
 
-const TOTAL_PRODUCTS = 25;
+const TOTAL_PRODUCTS = 26;
 const TOTAL_SEGMENTS = 20;
 
 export default function XpBar() {
