@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: var(--font-minecraft), monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* This ensures all default text is solid white */
+  color: white; 
+
+  /* Your background image */
+  background-image: url('/images/my-background.png'); /* Make sure this path is correct */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* This rule explicitly resets heading styles to be safe */
+h1, h2, h3, h4, h5, h6 {
+  color: white; /* Or another solid color you prefer */
+  text-shadow: 2px 2px 2px #373737; /* Adds a shadow for readability */
+
+  /* These lines explicitly turn OFF the text-clipping effect */
+  background-clip: initial;
+  -webkit-background-clip: initial; 
+}
